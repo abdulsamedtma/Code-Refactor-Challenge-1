@@ -3,7 +3,7 @@
 ## Description
 
 Refactoring existing code to improve it without affecting its functionality in order to satisfy a set of standards or incorporate a new technology is a common task for junior and front-end developers. This project aims to rework an existing marketing agency's website to make it more accessible while adhering strictly to Scout Rule**&mdash "always leave the code a little cleaner than when you found it."
-Web **accessibility** is an increasingly important consideration for businesses since it ensures that individuals with disabilities may use a website using assistive technologies such as screen readers, braille keyboards, and so on.
+Web **accessibility** is an increasingly important consideration for businesses since it ensures that individuals with disabilities may access a website using assistive technologies such as screen readers, braille keyboards, and so on.
 It also assists the company in avoiding lawsuits that may occur if persons with impairments are unable to access the website. 
 
 **Motiveted** by my penchant for a sucessful career in software engineering, honing my HTML and CSS skills as a full stack development student will lay the strong resilent foundation for my growth and sucess in the industry. Every day is a learning day!
