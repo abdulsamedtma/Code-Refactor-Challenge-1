@@ -1,0 +1,208 @@
+/* General Style */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* background*/
+body {
+    background-color: #d9dcd6;
+    /* background color is white*/
+}
+
+/* Header*/
+
+header {
+
+    padding: 20px;
+    /* padding is 20px for the header*/
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* The list of preferred font for the header*/
+    background-color: #2a607c;
+    /*Background color is blue*/
+    color: #ffffff;
+    /*Background color is white*/
+}
+
+header h1 {
+    display: inline-block;
+    /* Set display for header h1 elements are inline-block */
+    font-size: 48px;
+    /*  Set the fonts stylefor header h1 element to 48px */
+}
+
+header h1 .seo {
+    color: #d9dcd6;
+    /* Combined header h1 and .seo element are colored white */
+}
+
+
+
+/* Combined header nav and header ul elements and styled all together */
+header nav,
+header nav ul {
+    padding-top: 15px;
+    /* padding-top is 15px */
+    margin-right: 20px;
+    /* margin to tehe right is 20px */
+    float: right;
+    /* All element witing this tag float to the right */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* The list of preferred font for all elements within the tags */
+    font-size: 20px;
+    /* The font size used is 20px for all the elments within each tag*/
+    list-style-type: none;
+    /* No list style type selected for all element withiing the tags*/
+}
+
+header nav,
+ul,
+li {
+    display: inline-block;
+    /* Display for element within header nav,ul and li is set inline-block*/
+    margin-left: 25px;
+    /* Margins are set ar 25px for all elements within the tags*/
+}
+
+/* Text styling */
+
+a {
+    color: #ffffff;
+    /* Color white is set for all element within the <a></a> tag*/
+    text-decoration: none;
+    /* No text decoration  selected for element within the tag*/
+}
+
+p {
+    font-size: 16px;
+    /* Font Size for the element within the P (paragraph) tag is set to 16px*/
+}
+
+/* Hero div with the background image */
+
+.hero {
+    height: 800px;
+    /* Height set at 800px for all element within the hero class */
+    width: 100%;
+    /* Width set at 100% for all element within the hero class */
+    margin-bottom: 25px;
+    /* Bottom margins set at 25px for all element within the hero class */
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    /* Background image diplayed within the hero class */
+    background-size: cover;
+    /* Backround size set to cover the entire containter or better class */
+    background-position: center;
+    /* Backround position set to center in entire containter or better class */
+}
+
+/* Floats  */
+
+.float-left {
+    float: left;
+    /*Element within the .float- left class float to the left */
+    margin-right: 25px;
+    /*Element within the .float- left class has margin left set to 25px*/
+}
+
+.float-right {
+    float: right;
+    /*Element within the .float- right class float to the right */
+    margin-left: 25px;
+    /*Element within the .float- right class has margin left set to 25px*/
+}
+
+/* SERVICES SECTIONS */
+
+.service {
+    margin-bottom: 20px;
+    /* Element within the service class has a bottom margin of 20px */
+    padding: 50px;
+    /* Element within the service class has padding of 50px */
+    height: 300px;
+    /* Element within the service class has a height of 300px */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* The list of preferred font for element withing the service class */
+    background-color: #0072bb;
+    /* The backgrouind color for service class is blue */
+    color: #ffffff;
+    /* The white is set for all the elements within the service class */
+}
+
+.service img {
+    max-height: 200px;
+    /* The maximum height of the image element within this tag is 200px */
+}
+
+.service h2 {
+    margin-bottom: 20px;
+    /* The bottom margin set for all service h2 tag elements is 20px */
+    font-size: 36px;
+    /* the font size set for all elements within the tag is 36px */
+}
+
+/* Styling the content class element changed to main element*/
+
+main {
+    width: 75%;
+    /*Element within the main tag has width is set to 75px*/
+    display: inline-block;
+    /*Element within the main tag has display property is set to Inline-block*/
+    margin-left: 20px;
+    /*Element within the main tag has margin to the left set to 20px*/
+}
+
+/* Benefits aside */
+
+#benefits {
+    margin-right: 20px;
+    /*Element within the Id attribute #benefits tag has a margin to the right set to 20px*/
+    padding: 20px;
+    /*Element within the Id attribute #benefits tag has padding set to 20px*/
+    clear: both;
+    float: right;
+    width: 20%;
+    /*Element within the Id attribute #benefits tag has width set to 20%*/
+    height: 100%;
+    /*Element within the Id attribute #benefits tag has height set to 100%*/
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* The list of preferred font for all elements within id attributes */
+    background-color: #2589bd;
+    /* Element within the Id attribute has a background color set blue */
+}
+
+.benefit {
+    margin-bottom: 32px;
+    /* Margin at the bottom set at 32px for all element within the benefit class */
+    color: #ffffff;
+    /* White color set for all element within the benefit class */
+}
+
+/* combined .benefit img and .benefit h3 and styled together*/
+.benefit img,
+.benefit h3 {
+    display: block;
+    /* The display property for all the image element within the benefitclass is set inline block */
+    margin: 10px auto;
+    /* The margins set for element within this class is set at 10px*/
+    max-width: 150px;
+    /* The maximum width of element within this class is set at 150px */
+    text-align: center;
+    /* Text align for element the .benefit img and .benefit h3 tags is set in the center*/
+}
+
+/* Footer and footer h2 combined and styled together */
+
+footer,
+footer h2 {
+    padding: 30px;
+    /* padding for elements within the footer and footer h2 tags set at 30px */
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* The list of preferred font for all elements within foorter and footer h2 tags */
+    text-align: center;
+    /* Text align for element the footer and footer h2 tags is set in the center*/
+    font-size: 20px;
+    /* Font sixe set is 20px for all element withing the footer  and footer h2 tags */
+}
