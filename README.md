@@ -16,7 +16,10 @@ This resource will be helpful to students / beginners learning basics of Softwar
 
 
 
-![Top](https://github.com/abdulsamedtma/Code-Refactor-Challenge-1/assets/129804994/79d48eeb-90eb-4c93-8bd9-3cf7919d9a4c)
+
+!
+[Top](https://github.com/abdulsamedtma/Code-Refactor-Challenge-1/assets/129804994/79d48eeb-90eb-4c93-8bd9-3cf7919d9a4c)
+
 
 
 
@@ -30,7 +33,13 @@ This resource will be helpful to students / beginners learning basics of Softwar
 
 
 
+
+
 ![Bottom](https://github.com/abdulsamedtma/Code-Refactor-Challenge-1/assets/129804994/88842f4a-c49d-46bc-a85f-1ffedf867247)
+
+
+
+
 
 
 
