@@ -8,8 +8,7 @@ It also assists the company in avoiding lawsuits that may occur if persons with 
 
 **Motiveted** by my penchant for a sucessful career in software engineering, honing my HTML and CSS skills as a full stack development student will lay the strong resilent foundation for my growth and sucess in the industry. Every day is a learning day!
 
-This resource will be helpful to students / beginners learning basics of Software development ie semantic HTML structure and CSS. I have gained lots of experience such semantic HTML structure and consolidating selectors and properties in CSS as   I was working on this project.
-
+This resource will be helpful to students / beginners learning basics of Software development ie semantic HTML structure and CSS. As I worked on this project, I gained a lot of knowledge, such as how to develop a semantic HTML element, how to arrange header attributes in a sequential order, how to write a concise descriptive title, and how to add alt attributes to icons and image elements.
 
 
 
