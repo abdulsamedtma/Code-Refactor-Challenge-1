@@ -68,11 +68,11 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 ## Features
 
 Below are the features;
-. The Source code contains a semantic HTML elements.
-. The HTML element  follow a logical structure independent of styling and positioning
-. The Icons and Image elemtnts  are given accessible alt attributes
-. The heading attributes fall in a sequential order.
-. The titile is given a concise, descriptive title.
+* The Source code contains a semantic HTML elements.
+* The HTML element  follow a logical structure independent of styling and positioning.
+* The Icons and Image elemtnts  are given accessible alt attributes.
+* The heading attributes fall in a sequential order.
+* The titile is given a concise, descriptive title.
 
 ## How to Contribute
 
