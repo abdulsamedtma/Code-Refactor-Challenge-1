@@ -43,9 +43,11 @@ This resource will be helpful to students / beginners learning basics of Softwar
 
 
 ## Installation
-. Clone the repository to your desktnop.
-. Navigate to the top level of the directory.
-. Open the index.html in your broswer.
+* Clone the repository to your desktop.
+ 
+* Navigate to the top level of the directory.
+ 
+* Open the index.html in your broswer.
 
 
 ## Usage
