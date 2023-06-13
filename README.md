@@ -80,3 +80,4 @@ Contributions are always welcome! But please read the contribution guidelines fi
 
 ## Test
 Page URL  http://127.0.0.1:5501/index.html
+Page deployed application URL https://abdulsamedtma.github.io/Code-Refactor-Challenge-1/
